@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "host",
+    "api",
+    "plugin",
+    "plugin-macros"
+]
